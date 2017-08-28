@@ -16,7 +16,7 @@ map.on('load', function () {
     type: 'symbol',
     source: {
       type: 'geojson',
-      data: '/data.geojson'
+      data: 'data.geojson'
     },
     layout: {
       'icon-image': 'circle-15',
